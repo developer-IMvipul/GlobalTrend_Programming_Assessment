@@ -13,7 +13,11 @@ Output1
 ![image](https://github.com/user-attachments/assets/45d2b282-f6b4-49bd-94f2-df888bf9732e)
 
 
-       	
+Output2
+<br>       	
+![image](https://github.com/user-attachments/assets/bfe9cc1e-e8d9-45c8-8547-98f021764081)
+![image](https://github.com/user-attachments/assets/57efcc91-3135-4aff-9942-d49a3181e530)
+![image](https://github.com/user-attachments/assets/bf64f184-603f-4d84-acf0-9bd441439fe0)
 
  
 
