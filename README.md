@@ -1,6 +1,7 @@
 # GlobalTrend_Programming_Assessment
 
 Output1
+<br>
 ![image](https://github.com/user-attachments/assets/f27a5134-072a-46b1-a6df-9f7ec3906248)
 ![image](https://github.com/user-attachments/assets/de0cf5ce-974e-4484-b76e-c39665a078a4)
 ![image](https://github.com/user-attachments/assets/8967f91f-b132-4969-8bda-14df06654892)
